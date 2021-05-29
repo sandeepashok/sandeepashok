@@ -1,9 +1,9 @@
 <h1 align="left">Hey there 👋, I'm Sandeep Ashok</h1> 
-<h3 align="left">A passionate frontend developer from Bengaluru, Karnataka</h3>  
+<h3 align="left">A passionate frontend developer from Bengaluru, India</h3>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepashok&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepashok" /> </p>  
 
-  <h3 align="left">Languages and Tools:</h3>  
+  <h3 align="left">Technologies I am familiar with:</h3>  
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -16,11 +16,15 @@
     
  </p>  
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepashok&show_icons=true&locale=en&layout=compact" alt="sandeepashok" /></p>
+  <h3 align="left">Most used programming languages:</h3>
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepashok&show_icons=true&locale=en&layout=compact" alt="sandeepashok" /></p>
 
+<h3  align="left" >Github Statistics: </h3>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepashok&show_icons=true&locale=en" alt="sandeepashok" /></p>
   
+  <h3  align="left">Streaks and Contributions:</h3>
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepashok&" alt="sandeepashok" /></p>
   
