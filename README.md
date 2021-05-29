@@ -3,12 +3,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://sandeep.netlify.app/](https://sandeep.netlify.app/)
+- 👨‍💻 All of my projects are available at [ScriptoPlankton](https://sandeep.netlify.app/)
 
-- 📝 I regularly write articles on [https://scriptoplankton.hashnode.dev/](https://scriptoplankton.hashnode.dev/)
-
-- 📫 How to reach me **sandeep98a@gmail.com**
-
+- 📝 I write articles on [Hashnode](https://scriptoplankton.hashnode.dev/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepashok&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepashok" /> </p>  
 
