@@ -4,6 +4,9 @@
 <img align="right" width="300px" src="./undraw_Hacker_mindset_re_8a33.svg" />
 
 <p align="left">
+  <a href="https://sandeep.netlify.app/">
+    <img src="https://img.shields.io/badge/-ScriptoPlankton-6633cc?style=flat-square&logo=Netlify&logoColor=white&link=https://sandeep.netlify.app/" />
+  </a>
   <a href="mailto:sandeep98a@gmail.com">
     <img src="https://img.shields.io/badge/-sandeep98a@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandeep98a@gmail.com" />
   </a>
@@ -19,6 +22,7 @@
   <a>
     <img src="https://img.shields.io/badge/Sandeep Ashok%235333-6633cc?style=flat-square&logo=Discord&logoColor=white" />
   </a>
+  
 </p>
 
 - :briefcase: I am currently looking for a job as Frontend Developer.
