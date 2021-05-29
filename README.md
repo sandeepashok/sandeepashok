@@ -1,11 +1,22 @@
 <h1 align="left">Hey there 👋, I'm Sandeep Ashok</h1> 
-<h3 align="left">A passionate frontend developer from Bengaluru, India</h3>  
+<h3 align="left" >A passionate frontend developer from Bengaluru, India</h3>  
 
-- 🌱 I’m currently learning **React.js**
+<img align="right" width="300px" src="./bio-image.svg" />
 
-- 👨‍💻 All of my projects are available at [ScriptoPlankton](https://sandeep.netlify.app/)
-
-- 📝 I write articles on [Hashnode](https://scriptoplankton.hashnode.dev/)
+<p align="left">
+  <a href="mailto:rafaeldcmartins@gmail.com">
+    <img src="https://img.shields.io/badge/-sandeep98a@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafaeldcmartins">
+    <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandeep-ashok-256103151/" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/SandeepAshok#5333-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/sandeepashok/?tab=follow">
+    <img src="https://img.shields.io/github/followers/sandeepashok?label=Follow&style=social" />
+  </a>
+</p>
 
 
 <h3 align="left">Technologies I am familiar with:</h3>  
@@ -20,20 +31,14 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  </p>  
   
-  <h3 align="left">Most used programming languages:</h3>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepashok&show_icons=true&locale=en&layout=compact" alt="sandeepashok" /></p>
-
-<h3  align="left" >Github Statistics: </h3>
-
-  <img
+<img
   align="left"
   height="165"
   src="https://github-readme-stats.vercel.app/api?username=sandeepashok&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
-  <hr/>
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepashok&label=Profile%20views&color=2EA043&style=flat" alt="sandeepashok" /> </p>  
+
+
+
   
   
   
