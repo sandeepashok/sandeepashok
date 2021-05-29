@@ -13,11 +13,11 @@
   <a href="https://twitter.com/sandeep122498">
     <img src="https://img.shields.io/badge/-@Sandeep122498-6633cc?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sandeep122498" />
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Sandeep Ashok%235333-6633cc?style=flat-square&logo=Discord&logoColor=white" />
-  </a>
   <a href="https://github.com/sandeepashok/?tab=follow">
     <img src="https://img.shields.io/github/followers/sandeepashok?label=Follow&style=social" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Sandeep Ashok%235333-6633cc?style=flat-square&logo=Discord&logoColor=white" />
   </a>
 </p>
 
