@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepashok&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepashok" /> </p>  
 
+- 🌱 I’m currently learning **React.js**
+
+- 👨‍💻 All of my projects are available at [https://sandeep.netlify.app/](https://sandeep.netlify.app/)
+
+- 📝 I regularly write articles on [https://scriptoplankton.hashnode.dev/](https://scriptoplankton.hashnode.dev/)
+
+- 📫 How to reach me **sandeep98a@gmail.com**
+
   <h3 align="left">Technologies I am familiar with:</h3>  
 
 <p align="left">
