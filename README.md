@@ -4,14 +4,14 @@
 <img align="right" width="300px" src="./undraw_Hacker_mindset_re_8a33.svg" />
 
 <p align="left">
-  <a href="mailto:rafaeldcmartins@gmail.com">
+  <a href="sandeep98a@gmail.com">
     <img src="https://img.shields.io/badge/-sandeep98a@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/sandeep-ashok-256103151/">
     <img src="https://img.shields.io/badge/-Sandeep%20Ashok-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandeep-ashok-256103151/" />
   </a>
   <a href="https://twitter.com/sandeep122498">
-    <img src="https://img.shields.io/badge/-Sandeep-6633cc?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sandeep122498" />
+    <img src="https://img.shields.io/badge/-@Sandeep122498-6633cc?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/sandeep122498" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/Sandeep Ashok%235333-6633cc?style=flat-square&logo=Discord&logoColor=white" />
