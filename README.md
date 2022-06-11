@@ -25,9 +25,6 @@
   
 </p>
 
-- :briefcase: I am currently looking for a job as Frontend Developer.
-
-
 <h3 align="left">Technologies I am familiar with:</h3>  
 
 <p align="left">
